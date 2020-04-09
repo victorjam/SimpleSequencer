@@ -1,0 +1,27 @@
+##########################################
+# Syntax Coloring Map For SimpleSequencer
+##########################################
+
+##########################################
+# Datatypes (KEYWORD1)
+##########################################
+
+SimpleSequencer	KEYWORD1
+
+##########################################
+# Methods and Functions (KEYWORD2)
+##########################################
+
+setStep		KEYWORD2
+update		KEYWORD2
+start		KEYWORD2
+stop		KEYWORD2
+setOnStart	KEYWORD2
+setOnStop	KEYWORD2
+isRunning	KEYWORD2
+
+
+##########################################
+# Constants (LITERAL1)
+##########################################
+
